@@ -1,0 +1,22 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: fixed;
+    margin-top: 50px;
+  }
+  
+  input {
+    padding: 5px;
+    margin: 5px;
+    width: 150px;
+  }
+  
+  button {
+    padding: 7px 15px;
+    margin: 10px;
+  }
+  
+  #solution {
+    margin-top: 20px;
+    font-weight: bold;
+  }
+  
